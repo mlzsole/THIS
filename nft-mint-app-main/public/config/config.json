@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF10D147a8074AF3930bBA49233a3D15ba4EDf66f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf10d147a8074af3930bba49233a3d15ba4edf66f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Courage The Stoner Dog",
+  "SYMBOL": "CTSD",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/courage-the-stoner-dog",
+  "SHOW_BACKGROUND": true
+}
